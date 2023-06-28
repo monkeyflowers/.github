@@ -16,3 +16,9 @@ This organization is in early stages of development -- if you'd like to help us 
 To make a contribution of code, repositories, pull requests, etc., you'll need to join the organization. Email Matt Farnitano (mattfarnitano@gmail.com) to get an invite!
 
 We are currently working on a set of guidelines for how to use, contribute to, and maintain this organization. Please help us out with suggestions -- what would make this most accessible and helpful for you??
+
+Mimulus (Diplacus) brevipes            |  Mimulus (Diplacus) fremontii
+:-------------------------:|:-------------------------:
+![image of Mimulus brevipes flower by Matt Farnitano](/M_brevipes.JPG)  |  ![image of Mimulus fremontii flower by Matt Farnitano](/M_fremontii.JPG) 
+
+ 
