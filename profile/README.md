@@ -19,6 +19,6 @@ We are currently working on a set of guidelines for how to use, contribute to, a
 
 Mimulus (Diplacus) brevipes            |  Mimulus (Diplacus) fremontii
 :-------------------------:|:-------------------------:
-![image of Mimulus brevipes flower by Matt Farnitano](/M_brevipes.JPG)  |  ![image of Mimulus fremontii flower by Matt Farnitano](/M_fremontii.JPG) 
+![image of Mimulus brevipes flower by Matt Farnitano](/M_brevipes.jpeg)  |  ![image of Mimulus fremontii flower by Matt Farnitano](/M_fremontii.jpeg) 
 
  
